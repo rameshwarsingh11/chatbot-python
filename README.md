@@ -4,3 +4,4 @@
 # install tensorflow nad nltk
 $ pip3 install tensorflow
 $ pip4 install nltk
+$ python chatbot.py
